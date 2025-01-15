@@ -1,0 +1,72 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-image: url('imagesb/bg4cute.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+  }
+  
+  .frame {
+    background: #fff3f3;
+    border: 3px solid #ff8fab;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 15px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #ff5f5f;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .countdown {
+    margin: 20px auto;
+    font-size: 1.5rem;
+  }
+  
+  #timer {
+    font-size: 2rem;
+    -webkit-text-stroke-color: #333;
+    -webkit-text-stroke-width: 1px;
+    color: #ff85a2;
+  }
+  
+  .bunny-frame, .panda-frame {
+    position: fixed;
+    bottom: 20px;
+    width: 150px;
+    text-align: center;
+    background: #fff3f3;
+    border: 2px solid #ff8fab;
+    padding: 10px;
+    border-radius: 15px;
+  }
+  
+  .bunny-frame {
+    left: 20px;
+  }
+  
+  .panda-frame {
+    right: 20px;
+  }
+  
+  .bunny, .panda {
+    width: 100px;
+    cursor: pointer;
+  }
+  
+  #bunny-message, #panda-message {
+    font-size: 1rem;
+    color: #f809e0;
+  }
