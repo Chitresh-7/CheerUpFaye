@@ -1,1 +1,1 @@
-# CheerUpFaye
+A cute, interactive, and motivational webpage designed to bring a smile to Faye's face as she prepares for her talent show! This project combines a countdown timer, motivational messages, and adorable animal characters to create a delightful experience.
