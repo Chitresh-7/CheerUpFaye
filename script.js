@@ -27,7 +27,7 @@ updateCountdown();
     "Your potential is limitless—never be afraid to reach for the stars",
     "The world is lucky to have someone as kind and talented as you",
    "You’ve already accomplished so much—keep going, because your best is yet to come",
-   "Your strength and passion are unstoppable—keep going, Faye!".
+   "Your strength and passion are unstoppable—keep going, Faye!."
   ];
   
   const pandaMessages = [
@@ -45,7 +45,7 @@ updateCountdown();
     "The light you carry inside is meant to shine brighter than you ever imagined",
     "Faye, your courage and resilience inspire everyone around you",
     "Faye, your kindness is the quiet strength that makes the world a better place",
-    "Your strength and beauty inspire those around you, and it’s something I will always admire".
+    "Your strength and beauty inspire those around you, and it’s something I will always admire."
 
     
     
