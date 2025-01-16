@@ -1,8 +1,13 @@
 body {
-    background: linear-gradient(to bottom, #ffdfba, #ffd1dc);
-    text-align: center;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+    background-image: url('https://github.com/Chitresh-7/CheerUpFaye/raw/main/bgcute.jpg');
+    background-size: cover;
     margin: 0;
     padding: 0;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 
 
   }
